@@ -1,2 +1,3 @@
 # q-learning-tic-tac-toe
-Code for Tic Tac Toe, players and tabular Q-learning agent implementation
+The full code for Tic Tac Toe, game simulations, all player types, and tabular Q-learning agent implementation, 
+that was used to simulate the results in the thesis project.
